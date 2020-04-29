@@ -1,0 +1,67 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Gibbons @ iFunky Cloud Ops</title>
+    <link>https://ifunky.net/</link>
+    <description>Recent content on Dan Gibbons @ iFunky Cloud Ops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Apr 2020 22:08:20 +0100</lastBuildDate>
+    
+        <atom:link href="https://ifunky.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Links</title>
+      <link>https://ifunky.net/link/</link>
+      <pubDate>Tue, 21 Apr 2020 22:08:20 +0100</pubDate>
+      
+      <guid>https://ifunky.net/link/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>https://ifunky.net/article/</link>
+      <pubDate>Tue, 21 Apr 2020 22:02:41 +0100</pubDate>
+      
+      <guid>https://ifunky.net/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quotes</title>
+      <link>https://ifunky.net/quote/</link>
+      <pubDate>Wed, 01 Apr 2020 13:01:14 +0100</pubDate>
+      
+      <guid>https://ifunky.net/quote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ifunky.net/gallery/</link>
+      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
+      
+      <guid>https://ifunky.net/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audios</title>
+      <link>https://ifunky.net/audio/</link>
+      <pubDate>Wed, 01 Nov 2017 16:12:47 +0100</pubDate>
+      
+      <guid>https://ifunky.net/audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codes</title>
+      <link>https://ifunky.net/code/</link>
+      <pubDate>Wed, 01 Nov 2017 09:31:27 +0100</pubDate>
+      
+      <guid>https://ifunky.net/code/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

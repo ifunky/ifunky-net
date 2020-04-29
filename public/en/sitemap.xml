@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ifunky.net/categories/</loc>
+    <lastmod>2020-04-21T22:08:20+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/</loc>
+    <lastmod>2020-04-21T22:08:20+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/tags/docker-terraform/</loc>
+    <lastmod>2020-04-21T22:08:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/link/</loc>
+    <lastmod>2020-04-21T22:08:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/link/polydev/</loc>
+    <lastmod>2020-04-21T22:08:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/categories/privacy/</loc>
+    <lastmod>2020-04-21T22:08:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/tags/</loc>
+    <lastmod>2020-04-21T22:08:20+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/article/</loc>
+    <lastmod>2020-04-21T22:02:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/article/polydev/</loc>
+    <lastmod>2020-04-21T22:02:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/author/</loc>
+    <lastmod>2020-04-01T13:01:14+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/categories/devops/</loc>
+    <lastmod>2020-04-01T13:01:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/author/jeffery-snowver/</loc>
+    <lastmod>2020-04-01T13:01:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/quote/jeffery-snowver/</loc>
+    <lastmod>2020-04-01T13:01:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/quote/</loc>
+    <lastmod>2020-04-01T13:01:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/tags/quotes/</loc>
+    <lastmod>2020-04-01T13:01:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/tags/discord/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/author/lednerb/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/author/lednerb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/author/lednerb/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/tags/say-thanks/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/tags/support/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/article/support-and-discussions/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/gallery/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/tags/eilean-donan-castle/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/tags/eilean-donan-castle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/tags/eilean-donan-castle/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/tags/glennfinnan-viaduct/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/categories/holidays/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/gallery/my-trip-to-scotland/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/gallery/my-trip-to-scotland/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/gallery/my-trip-to-scotland/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/tags/scotland/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/categories/travelling/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/audio/</loc>
+    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/tags/kilez-more/</loc>
+    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/audio/kilez-more-new-world-order/</loc>
+    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/categories/music/</loc>
+    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/tags/truth-rap/</loc>
+    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/page/about-me/</loc>
+    <lastmod>2017-11-01T13:18:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/page/about-me-copy/</loc>
+    <lastmod>2017-11-01T13:18:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/page/</loc>
+    <lastmod>2017-11-01T13:18:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/tags/bilberry-theme/</loc>
+    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/categories/code/</loc>
+    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/code/</loc>
+    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/tags/hugo/</loc>
+    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/code/installing-bilberry-theme/</loc>
+    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/categories/tutorials/</loc>
+    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+  </url>
+  
+</urlset>

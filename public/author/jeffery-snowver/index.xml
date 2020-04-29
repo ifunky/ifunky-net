@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeffery Snowver on Dan Gibbons @ iFunky Cloud Ops</title>
+    <link>https://ifunky.net/author/jeffery-snowver/</link>
+    <description>Recent content in Jeffery Snowver on Dan Gibbons @ iFunky Cloud Ops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Apr 2020 13:01:14 +0100</lastBuildDate>
+    
+	<atom:link href="https://ifunky.net/author/jeffery-snowver/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jeffery Snowver on DevOps</title>
+      <link>https://ifunky.net/quote/jeffery-snowver/</link>
+      <pubDate>Wed, 01 Apr 2020 13:01:14 +0100</pubDate>
+      
+      <guid>https://ifunky.net/quote/jeffery-snowver/</guid>
+      <description>Being great at DevOps without focusing on the customer means you can be excellent at doing something that doesn&amp;rsquo;t matter</description>
+    </item>
+    
+  </channel>
+</rss>

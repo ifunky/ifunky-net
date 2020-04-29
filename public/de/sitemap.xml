@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ifunky.net/de/author/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/de/categories/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/de/tags/eilean-donan-castle/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/tags/eilean-donan-castle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/tags/eilean-donan-castle/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/de/gallery/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/de/tags/glennfinnan-viadukt/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/de/author/lednerb/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/author/lednerb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/author/lednerb/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/de/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/de/gallery/my-trip-to-scotland/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/gallery/my-trip-to-scotland/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/gallery/my-trip-to-scotland/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/de/categories/reise/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/de/tags/schottland/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/de/tags/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ifunky.net/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ifunky.net/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/de/categories/urlaub/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+  </url>
+  
+</urlset>
