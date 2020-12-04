@@ -13,9 +13,11 @@ More info here: [https://docs.aws.amazon.com/securityhub/latest/userguide/securi
 
 **What is this!?**
 
-Every EC2 instance contains metadata located at http://169.254.169.254 which contains details about the instance including the temporary IAM credentials used for the instance profile IAM role.  There are two versions of this known as `IMDSv1` and `IMDSv2. `V2 is a more secure version which requires tokens in order to access the metadata.
+Every EC2 instance contains metadata located at http://169.254.169.254 which contains details about the instance including the temporary IAM credentials used for the instance profile IAM role.  There are two versions of this known as `IMDSv1` and `IMDSv2.`V2 is a more secure version which requires tokens in order to access the metadata.
 
-**Why is it high**
+**Why is it high severtty**
+
+**?**
 
 In V1 there are potential security vulnerabilities using:
 
