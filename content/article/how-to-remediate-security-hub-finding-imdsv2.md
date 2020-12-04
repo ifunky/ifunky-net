@@ -1,7 +1,6 @@
 +++
 categories = ["security", "aws"]
 date = 2020-12-04T00:00:00Z
-draft = true
 link = ""
 tags = []
 title = "How To Remediate Security Hub Finding IMDSv2"
