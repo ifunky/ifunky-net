@@ -17,3 +17,5 @@ fields:
 - type: text
   name: link
   label: link
+pages:
+- content/article/how-to-remediate-security-hub-finding-imdsv2.md
