@@ -4,6 +4,7 @@ date = 2020-12-04T00:00:00Z
 link = ""
 tags = []
 title = "How To Remediate Security Hub Finding IMDSv2"
+noSummary: true
 
 +++
 Using [SecurityHub](https://aws.amazon.com/security-hub/?aws-security-hub-blogs.sort-by=item.additionalFields.createdDate&aws-security-hub-blogs.sort-order=desc) you may come across "\[EC2.8\] EC2 instances should use IMDSv2" which is categorised as a high severity finding.
