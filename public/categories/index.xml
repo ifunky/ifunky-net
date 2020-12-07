@@ -5,10 +5,28 @@
     <link>https://ifunky.net/categories/</link>
     <description>Recent content in Categories on Dan Gibbons @ iFunky Cloud Ops</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 21 Apr 2020 22:08:20 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ifunky.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>aws</title>
+      <link>https://ifunky.net/categories/aws/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ifunky.net/categories/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://ifunky.net/categories/security/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ifunky.net/categories/security/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Privacy</title>
@@ -25,51 +43,6 @@
       <pubDate>Wed, 01 Apr 2020 13:01:14 +0100</pubDate>
       
       <guid>https://ifunky.net/categories/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Holidays</title>
-      <link>https://ifunky.net/categories/holidays/</link>
-      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
-      
-      <guid>https://ifunky.net/categories/holidays/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travelling</title>
-      <link>https://ifunky.net/categories/travelling/</link>
-      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
-      
-      <guid>https://ifunky.net/categories/travelling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>https://ifunky.net/categories/music/</link>
-      <pubDate>Wed, 01 Nov 2017 16:12:47 +0100</pubDate>
-      
-      <guid>https://ifunky.net/categories/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Code</title>
-      <link>https://ifunky.net/categories/code/</link>
-      <pubDate>Wed, 01 Nov 2017 09:31:27 +0100</pubDate>
-      
-      <guid>https://ifunky.net/categories/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorials</title>
-      <link>https://ifunky.net/categories/tutorials/</link>
-      <pubDate>Wed, 01 Nov 2017 09:31:27 +0100</pubDate>
-      
-      <guid>https://ifunky.net/categories/tutorials/</guid>
       <description></description>
     </item>
     

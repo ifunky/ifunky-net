@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ifunky.net/article/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/categories/aws/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ifunky.net/categories/</loc>
-    <lastmod>2020-04-21T22:08:20+01:00</lastmod>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -19,7 +29,7 @@
   
   <url>
     <loc>https://ifunky.net/</loc>
-    <lastmod>2020-04-21T22:08:20+01:00</lastmod>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -30,6 +40,16 @@
                 hreflang="en"
                 href="https://ifunky.net/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/article/how-to-remediate-security-hub-finding-imdsv2/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ifunky.net/categories/security/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -68,13 +88,8 @@
   </url>
   
   <url>
-    <loc>https://ifunky.net/article/</loc>
-    <lastmod>2020-04-21T22:02:41+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ifunky.net/article/polydev/</loc>
-    <lastmod>2020-04-21T22:02:41+01:00</lastmod>
+    <lastmod>2020-04-21T21:02:41+00:00</lastmod>
   </url>
   
   <url>
@@ -118,138 +133,12 @@
   </url>
   
   <url>
-    <loc>https://ifunky.net/tags/discord/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/author/lednerb/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ifunky.net/de/author/lednerb/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ifunky.net/author/lednerb/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/tags/say-thanks/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/tags/support/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/article/support-and-discussions/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/gallery/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ifunky.net/de/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ifunky.net/gallery/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/tags/eilean-donan-castle/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ifunky.net/de/tags/eilean-donan-castle/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ifunky.net/tags/eilean-donan-castle/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/tags/glennfinnan-viaduct/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/categories/holidays/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/gallery/my-trip-to-scotland/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ifunky.net/de/gallery/my-trip-to-scotland/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ifunky.net/gallery/my-trip-to-scotland/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/tags/scotland/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/categories/travelling/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/audio/</loc>
-    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/tags/kilez-more/</loc>
-    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/audio/kilez-more-new-world-order/</loc>
-    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/categories/music/</loc>
-    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/tags/truth-rap/</loc>
-    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ifunky.net/page/about-me/</loc>
     <lastmod>2017-11-01T13:18:45+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ifunky.net/page/about-me-copy/</loc>
+    <loc>https://ifunky.net/page/github/</loc>
     <lastmod>2017-11-01T13:18:45+01:00</lastmod>
   </url>
   
@@ -259,33 +148,8 @@
   </url>
   
   <url>
-    <loc>https://ifunky.net/tags/bilberry-theme/</loc>
-    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/categories/code/</loc>
-    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/code/</loc>
-    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/tags/hugo/</loc>
-    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/code/installing-bilberry-theme/</loc>
-    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ifunky.net/categories/tutorials/</loc>
-    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <loc>https://ifunky.net/page/trading-app/</loc>
+    <lastmod>2017-11-01T13:18:45+01:00</lastmod>
   </url>
   
 </urlset>
