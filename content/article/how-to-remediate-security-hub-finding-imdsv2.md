@@ -1,6 +1,6 @@
 +++
 categories = ["security", "aws"]
-date = 2020-12-04T00:00:00Z
+date = 2020-12-04T01:00:00Z
 link = ""
 tags = ["AWS", "SecurityHub"]
 title = "How To Remediate Security Hub Finding IMDSv2"
