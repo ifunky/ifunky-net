@@ -54,7 +54,7 @@ disqusShortname = "bilberry-hugo-theme"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Amazonian - All things Cloud, DevOps and Automation - Continuous Learning :-)"
+    subtitle = "All things Cloud, DevOps and Automation - Continuous Learning :-)"
 
     # if you want to use gravatar for the header image
     gravatarEMail = "dan@ifunky.net"
