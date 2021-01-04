@@ -122,8 +122,8 @@ disqusShortname = "bilberry-hugo-theme"
     ]
 
     certificationLinks = [
-      { link = "https://www.linkedin.com/in/dan-gibbons-a991909/", icon = "fab fa-aws" },
-      { link = "https://github.com/ifunky", icon = "fab fa-aws" },
+      { link = "https://www.youracclaim.com/badges/629f22c2-d278-4ab2-ae8f-d3b312842ac9", icon = "fab fa-aws" },
+      { link = "https://www.youracclaim.com/badges/7ab8e15f-e8af-467b-a7d2-fb2ce150ac53", icon = "fab fa-aws" },
     ]
 
 
